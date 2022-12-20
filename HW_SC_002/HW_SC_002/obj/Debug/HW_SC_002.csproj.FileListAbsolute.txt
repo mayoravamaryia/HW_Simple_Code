@@ -1,0 +1,8 @@
+D:\!!UNITY_GameDev\procedural-programming-csharp-materials\Homework\HW_Simple_Code\001_HW_SC_002\HW_SC_002\bin\Debug\HW_SC_002.exe.config
+D:\!!UNITY_GameDev\procedural-programming-csharp-materials\Homework\HW_Simple_Code\001_HW_SC_002\HW_SC_002\bin\Debug\HW_SC_002.exe
+D:\!!UNITY_GameDev\procedural-programming-csharp-materials\Homework\HW_Simple_Code\001_HW_SC_002\HW_SC_002\bin\Debug\HW_SC_002.pdb
+D:\!!UNITY_GameDev\procedural-programming-csharp-materials\Homework\HW_Simple_Code\001_HW_SC_002\HW_SC_002\obj\Debug\HW_SC_002.csproj.AssemblyReference.cache
+D:\!!UNITY_GameDev\procedural-programming-csharp-materials\Homework\HW_Simple_Code\001_HW_SC_002\HW_SC_002\obj\Debug\HW_SC_002.csproj.SuggestedBindingRedirects.cache
+D:\!!UNITY_GameDev\procedural-programming-csharp-materials\Homework\HW_Simple_Code\001_HW_SC_002\HW_SC_002\obj\Debug\HW_SC_002.csproj.CoreCompileInputs.cache
+D:\!!UNITY_GameDev\procedural-programming-csharp-materials\Homework\HW_Simple_Code\001_HW_SC_002\HW_SC_002\obj\Debug\HW_SC_002.exe
+D:\!!UNITY_GameDev\procedural-programming-csharp-materials\Homework\HW_Simple_Code\001_HW_SC_002\HW_SC_002\obj\Debug\HW_SC_002.pdb
