@@ -10,55 +10,91 @@ namespace _001_HW_SC
     {
         static void Main(string[] args)
         {
-            for (int i = 0; i < 10; i++)
+            Console.Write("Enter heigth of triangle: ");
+            int heigth = int.Parse(Console.ReadLine());
+            /*
+             *
+             **
+             ***
+             ****
+             *****
+             
+             */
+
+            for (int i = 0; i < heigth; i++)
+            {
+                for (int j = 0; j <= i; j++)
+                {
+                    Console.Write("#");
+                }
+                Console.WriteLine();
+            }
+            Console.WriteLine();
+
+            /*
+             *****
+             ****
+             ***
+             **
+             *
+            
+             */
+
+            for (int i = 0; i < heigth; i++)
+            {
+                for (int j = heigth; j > i; j--)
+                {
+                    Console.Write("#");
+                }
+                Console.WriteLine();
+            }
+            Console.WriteLine();
+
+            /*
+                 *
+                **
+               ***
+              ****
+             *****
+             */
+
+            for (int i = 0; i <= heigth; i++)
+            {
+                for (int j = heigth; j > i; j--)
+                {
+                    Console.Write(" ");
+                }
+                for (int k = 0; k < i; k++)
+                {
+                    Console.Write("#");
+                }
+                Console.WriteLine();
+            }
+            Console.WriteLine();
+
+            /*
+              *****
+               ****
+                ***
+                 **
+                  *                          
+             */
+
+            for (int i = 0; i < heigth; i++)
             {
                 for (int j = 0; j < i; j++)
                 {
-                    Console.Write("#");
-                }
-                Console.WriteLine("#");
-            }
-            Console.WriteLine();
-
-            for (int i = 0; i <= 10; i++)
-            {
-                for (int j = 9; j >= i; j--)
-                {
-                    Console.Write("#");
-                }
-                Console.WriteLine("#");
-            }
-            Console.WriteLine();
-
-            for (int i = 0; i < 10; i++)
-            {
-                for (int j = 9; j > i; j--)
-                {
                     Console.Write(" ");
                 }
-
-                for (int k = 0; k <= i; k++)
+                for (int k = heigth; k > i; k--)
                 {
                     Console.Write("#");
                 }
                 Console.WriteLine();
             }
-            Console.WriteLine();
 
-            for (int i = 0; i < 10; i++)
-            {
-                for (int k = 0; k <= i; k++)
-                {
-                    Console.Write(" ");
-                }
-                for (int j = 9; j > i; j--)
-                {
-                    Console.Write("#");
-                }
-                Console.WriteLine();
-            }
             Console.WriteLine();
         }
-     }
+    }
  }
 
