@@ -1,0 +1,8 @@
+D:\!!UNITY_GameDev\procedural-programming-csharp-materials\Homework\HW_Simple_Code\HW_SC_005\SC_Arrays\003_SC_Arrays\bin\Debug\003_SC_Arrays.exe.config
+D:\!!UNITY_GameDev\procedural-programming-csharp-materials\Homework\HW_Simple_Code\HW_SC_005\SC_Arrays\003_SC_Arrays\bin\Debug\003_SC_Arrays.exe
+D:\!!UNITY_GameDev\procedural-programming-csharp-materials\Homework\HW_Simple_Code\HW_SC_005\SC_Arrays\003_SC_Arrays\bin\Debug\003_SC_Arrays.pdb
+D:\!!UNITY_GameDev\procedural-programming-csharp-materials\Homework\HW_Simple_Code\HW_SC_005\SC_Arrays\003_SC_Arrays\obj\Debug\003_SC_Sum_of_even_numbers.csproj.AssemblyReference.cache
+D:\!!UNITY_GameDev\procedural-programming-csharp-materials\Homework\HW_Simple_Code\HW_SC_005\SC_Arrays\003_SC_Arrays\obj\Debug\003_SC_Sum_of_even_numbers.csproj.SuggestedBindingRedirects.cache
+D:\!!UNITY_GameDev\procedural-programming-csharp-materials\Homework\HW_Simple_Code\HW_SC_005\SC_Arrays\003_SC_Arrays\obj\Debug\003_SC_Sum_of_even_numbers.csproj.CoreCompileInputs.cache
+D:\!!UNITY_GameDev\procedural-programming-csharp-materials\Homework\HW_Simple_Code\HW_SC_005\SC_Arrays\003_SC_Arrays\obj\Debug\003_SC_Arrays.exe
+D:\!!UNITY_GameDev\procedural-programming-csharp-materials\Homework\HW_Simple_Code\HW_SC_005\SC_Arrays\003_SC_Arrays\obj\Debug\003_SC_Arrays.pdb
